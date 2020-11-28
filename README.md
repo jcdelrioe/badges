@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Some practice with React JS, create a new badge in a Conference
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
